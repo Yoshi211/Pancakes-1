@@ -1,1 +1,2 @@
-# Pancakes-1
+# Pancakes
+This recipe is to make pancakes.
